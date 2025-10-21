@@ -1,16 +1,33 @@
-## Hi there 👋
+# 🧙‍♂️ Ehsan Moradi — Azure Data Engineer
+ 
+🚀 Transforming complex data challenges into smart, scalable, and cloud-native solutions.
+ 
+---
+ 
+## 👨‍💻 Who Am I?
+I'm a **Data Engineer** passionate about building robust **Azure data pipelines** and **ETL solutions**.  
 
-<!--
-**ehsanmor/ehsanmor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 💡 I thrive in cloud-driven environments, leveraging **Databricks**, **PySpark**, and **DevOps** practices to ensure performance, reliability, and data integrity.
+ 
+---
+ 
+## 🧠 Tech Arsenal
+ 
+**☁️ Cloud:** Azure (ADF, Synapse, Data Lake)
+**🔧 Tools:** Azure Data Factory, Databricks, Power BI, GitHub, DevOps, CI/CD 
+**💾 Databases:** Azure SQL, SQL Server, PostgreSQL, MongoDB  
+**📊 Analytics:** Power BI, Data Modeling, Data Quality, Deduplication  
+**🐍 Languages:** Python, PySpark, SQL, 
+**🧩 Concepts:** ETL/ELT, Data Warehousing, Data Migration, Data Governance, Agile/Scrum
+ 
 
-Here are some ideas to get you started:
+ 
+## 🧩 Key Skills
+**MS Fabric** | **Azure Data Factory** | **Synapse Analytics** | **Databricks**  
+**Python, SQL, PySpark** | **Power BI** | **GitHub** | **Agile, Scrum** | **DevOps, CI/CD**
+ 
+---
+ 
+## 📫 Contact
+📧 **Ehsanmor18@gmail.com**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

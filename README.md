@@ -11,7 +11,7 @@ I'm a **Data Engineer** passionate about building robust **Azure data pipelines*
  
 ---
  
-## 🧠 Tech Arsenal
+## 🧠 Tech 
  
 **☁️ Cloud:** Azure (ADF, Synapse, Data Lake)
 **🔧 Tools:** Azure Data Factory, Databricks, Power BI, GitHub, DevOps, CI/CD 
